@@ -1,6 +1,7 @@
 {
   "name": "forward-bot",
   "version": "1.0.0",
+  "description": "Multi-channel forward bot",
   "main": "index.js",
   "type": "module",
   "scripts": {
